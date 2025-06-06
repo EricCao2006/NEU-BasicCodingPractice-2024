@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d724ae12-eecf-4422-9ac3-4b201d14a8e7" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NEU-BasicCodingPractice-2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NEU-BasicCodingPractice-2024.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_base.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_controls.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_fxml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_graphics.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_media.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_swing.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jdk_jsobject.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jfx_incubator_input.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jfx_incubator_richtext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/dto/AqiLimitDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/Aqi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/AqiFeedback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/GridMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/ProvinceCity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/Supervisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/io/FileIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/test/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/test/Aqi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/test/AqiFeedback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/test/GridMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/test/ProvinceCity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/util/CommonUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/util/JavafxUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/src/main/resources/com/nep/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/target/classes/com/nep/entity/Aqi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/target/classes/com/nep/entity/AqiFeedback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eps/target/classes/com/nep/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/成果物模板/任务书-2025.6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/成果物模板/报告模版.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/成果物模板/班级号_小组编号_组内分工.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/01 项目概述.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/02 项目架构搭建.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/03 公众监督员端.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/04 系统管理员端.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/案例/05 网格员端.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EricCao2006"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EricCao2006/NEU-BasicCodingPractice-2024.git",
+    "accountId": "387e0675-2a8f-475e-b1ce-a5176c0d10a6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2y8GbYxpGzL08LJCewQe5JDIg9M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.4632184",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.NepmMain.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="NepmMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nep.NepmMain" />
+      <module name="demo" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-17.0.15\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.NepmMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d724ae12-eecf-4422-9ac3-4b201d14a8e7" name="更改" comment="" />
+      <created>1749208859272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749208859272</updated>
+      <workItem from="1749208860816" duration="135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
