@@ -77,7 +77,7 @@ public class NepmAqiAssignViewController implements Initializable {
         //标签初始化
         initConroller();
         //初始化网格员
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         List<GridMember> glist = (List<GridMember>) FileUtil.readObject(ProPaht+"gridmember.txt");
         for (GridMember gm : glist) {
             if(gm.getState().equals("工作中")){
@@ -88,7 +88,7 @@ public class NepmAqiAssignViewController implements Initializable {
 
     public void queryFeedback(){
         String afId = txt_afId.getText();
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
 
         List<AqiFeedback> alist = (List<AqiFeedback>)FileUtil.readObject(ProPaht+"aqifeedback.txt");
         boolean flag = true;

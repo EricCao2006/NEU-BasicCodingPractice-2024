@@ -67,7 +67,7 @@ public class NepmAqiInfoViewController implements Initializable {
 
         txt_tableView.getColumns().addAll(afIdColumn, proviceNameColumn,cityNameColumn,estimateGradeColumn,dateColumn,afNameColumn,infoColumn);
         ObservableList<AqiFeedback> data = FXCollections.observableArrayList();
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         List<AqiFeedback> afList = (List<AqiFeedback>) FileUtil.readObject(ProPaht+"aqifeedback.txt");
         for(AqiFeedback afb:afList){
             if(afb.getState().equals("未指派")){

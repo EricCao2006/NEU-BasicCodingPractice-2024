@@ -9,7 +9,7 @@ import java.util.List;
 public class AqiFeedbackServiceImpl implements AqiFeedbackService {
     @Override
     public void saveFeedBack(AqiFeedback afb) {
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
 
         List<AqiFeedback> afList = (List<AqiFeedback>) FileUtil.readObject(ProPaht+"aqifeedback.txt");
         afb.setAfId(afList.size()+1);
@@ -19,7 +19,7 @@ public class AqiFeedbackServiceImpl implements AqiFeedbackService {
 
     @Override
     public void assignGridMember(String afId,String realName) {
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
 
         List<AqiFeedback> alist = (List<AqiFeedback>)FileUtil.readObject(ProPaht+"aqifeedback.txt");
         for (AqiFeedback af : alist) {
@@ -37,7 +37,7 @@ public class AqiFeedbackServiceImpl implements AqiFeedbackService {
     public void confirmData(AqiFeedback afb) {
         // TODO Auto-generated method stub
         System.out.println(afb.getAfId());
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         List<AqiFeedback> afList = (List<AqiFeedback>)FileUtil.readObject(ProPaht+"aqifeedback.txt");
         for(int i = 0; i< afList.size();i++){
             AqiFeedback a = afList.get(i);

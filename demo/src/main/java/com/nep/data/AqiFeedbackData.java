@@ -10,7 +10,7 @@ public class AqiFeedbackData {
     public static void main(String[] args) {
         List<AqiFeedback> afList = new ArrayList<AqiFeedback>();
 
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         FileUtil.writeObject(ProPaht+"aqifeedback.txt", afList);
 
     }

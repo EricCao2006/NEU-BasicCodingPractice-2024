@@ -101,7 +101,7 @@ public class NepsSelectAqiViewController implements Initializable {
 
         txt_tableView.getColumns().addAll(levelColumn, explainColumn,impactColumn);
         ObservableList<Aqi> data = FXCollections.observableArrayList();
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
 
         List<Aqi> alist = (List<Aqi>)FileUtil.readObject(ProPaht+"aqi.txt");
         for(Aqi aqi:alist){

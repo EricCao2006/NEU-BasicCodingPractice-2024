@@ -23,7 +23,7 @@ public class AqiData {
         alist.add(a4);
         alist.add(a5);
         alist.add(a6);
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         FileUtil.writeObject(ProPaht+"aqi.txt", alist);
     }
 }

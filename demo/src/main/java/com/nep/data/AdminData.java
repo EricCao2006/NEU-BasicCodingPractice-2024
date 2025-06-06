@@ -20,7 +20,7 @@ public class AdminData {
         List<Admin> alist = new ArrayList<Admin>();
         alist.add(a1);
         alist.add(a2);
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         FileUtil.writeObject(ProPaht+"admin.txt", alist);
     }
 }

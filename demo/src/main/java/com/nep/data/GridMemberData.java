@@ -45,7 +45,7 @@ public class GridMemberData {
         glist.add(gm3);
         glist.add(gm4);
         glist.add(gm5);
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         FileUtil.writeObject(ProPaht+"gridmember.txt", glist);
     }
 }

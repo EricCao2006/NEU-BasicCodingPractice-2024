@@ -17,7 +17,7 @@ public class SupervisorData {
         alist.add(s1);
         alist.add(s2);
         alist.add(s3);
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         FileUtil.writeObject(ProPaht+"supervisor.txt", alist);
     }
 }

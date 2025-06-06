@@ -126,7 +126,7 @@ public class NepgAqiConfirmViewController implements Initializable {
 
         txt_tableView.getColumns().addAll(afIdColumn,afNameColumn,dateColumn,estimateGradeColumn, proviceNameColumn,cityNameColumn,addressColumn,infoColumn);
         ObservableList<AqiFeedback> data = FXCollections.observableArrayList();
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
 
         List<AqiFeedback> afList = (List<AqiFeedback>) FileUtil.readObject(ProPaht+"aqifeedback.txt");
         for(AqiFeedback afb:afList){
@@ -230,7 +230,7 @@ public class NepgAqiConfirmViewController implements Initializable {
         JavafxUtil.showAlert(primaryStage, "提交成功", "污染物实测数据提交成功", "","info");
         //刷新页面数据表格
         ObservableList<AqiFeedback> data = FXCollections.observableArrayList();
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         List<AqiFeedback> aList = (List<AqiFeedback>)FileUtil.readObject(ProPaht+"aqifeedback.txt");
         for(AqiFeedback a:aList){
             if(a.getGmName() != null && a.getGmName().equals(gridMember.getRealName()) && a.getState().equals("已指派")){

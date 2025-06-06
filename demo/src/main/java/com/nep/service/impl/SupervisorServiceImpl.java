@@ -12,7 +12,7 @@ public class SupervisorServiceImpl implements SupervisorService {
     @Override
     public boolean login(String loginCode,String password) {
         // TODO Auto-generated method stub
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         List<Supervisor> slist =(List<Supervisor>) FileUtil.readObject(ProPaht+"supervisor.txt");
         boolean isLogin = false;
         for(Supervisor s:slist){
@@ -28,7 +28,7 @@ public class SupervisorServiceImpl implements SupervisorService {
     @Override
     public boolean register(Supervisor supervisor) {
         // TODO Auto-generated method stub
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         List<Supervisor> slist = (List<Supervisor>)FileUtil.readObject(ProPaht+"supervisor.txt");
         System.out.println(slist.size());
         for(Supervisor s:slist){

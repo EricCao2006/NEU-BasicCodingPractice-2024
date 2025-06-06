@@ -4,57 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d724ae12-eecf-4422-9ac3-4b201d14a8e7" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NEU-BasicCodingPractice-2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NEU-BasicCodingPractice-2024.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="d724ae12-eecf-4422-9ac3-4b201d14a8e7" name="更改" comment="2025.06.06 更新了截图合集，但还不止">
+      <change afterPath="$PROJECT_DIR$/截图合集/AQI反馈数据实测信息.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/截图合集/公共监督AQI反馈数据列表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/截图合集/公共监督AQI反馈数据指派.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/截图合集/公共监督员信息反馈.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/截图合集/公共监督员端.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/截图合集/系统管理员端.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/截图合集/系统管理员端1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/截图合集/系统管理员端2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/截图合集/网格员AQI实测数据列表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/截图合集/网格员端.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_base.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_controls.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_fxml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_graphics.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_media.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_swing.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javafx_web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jdk_jsobject.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jfx_incubator_input.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jfx_incubator_richtext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/dto/AqiLimitDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/Aqi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/AqiFeedback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/GridMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/Operator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/ProvinceCity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/entity/Supervisor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/io/FileIO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/test/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/test/Aqi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/test/AqiFeedback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/test/GridMember.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/test/ProvinceCity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/util/CommonUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/com/nep/util/JavafxUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/src/main/resources/com/nep/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/target/classes/com/nep/entity/Aqi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/target/classes/com/nep/entity/AqiFeedback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eps/target/classes/com/nep/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/成果物模板/任务书-2025.6.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/成果物模板/报告模版.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/成果物模板/班级号_小组编号_组内分工.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/案例/01 项目概述.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/案例/02 项目架构搭建.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/案例/03 公众监督员端.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/案例/04 系统管理员端.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/案例/05 网格员端.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepgAqiConfirmViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepgAqiConfirmViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepmAqiAssignViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepmAqiAssignViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepmAqiInfoViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepmAqiInfoViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepmConfirmInfoViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepmConfirmInfoViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepsFeedbackViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepsFeedbackViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepsSelectAqiViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/controller/NepsSelectAqiViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/AdminData.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/AdminData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/AqiData.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/AqiData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/AqiFeedbackData.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/AqiFeedbackData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/GridMemberData.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/GridMemberData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/ProvinceCityData.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/ProvinceCityData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/SupervisorData.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/data/SupervisorData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/service/impl/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/service/impl/AqiFeedbackServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/service/impl/AqiFeedbackServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/service/impl/GridMemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/service/impl/GridMemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/nep/service/impl/SupervisorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/nep/service/impl/SupervisorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepgAqiConfirmViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepgAqiConfirmViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepmAqiAssignViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepmAqiAssignViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepmAqiInfoViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepmAqiInfoViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepmConfirmInfoViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepmConfirmInfoViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepsFeedbackViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepsFeedbackViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepsSelectAqiViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/controller/NepsSelectAqiViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/data/AdminData.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/data/AdminData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/data/AqiData.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/data/AqiData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/data/AqiFeedbackData.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/data/AqiFeedbackData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/data/GridMemberData.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/data/GridMemberData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/data/ProvinceCityData.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/data/ProvinceCityData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/data/SupervisorData.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/data/SupervisorData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/service/impl/AdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/service/impl/AqiFeedbackServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/service/impl/AqiFeedbackServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/service/impl/GridMemberServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/service/impl/GridMemberServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/nep/service/impl/SupervisorServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/nep/service/impl/SupervisorServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,24 +56,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EricCao2006"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EricCao2006&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/EricCao2006/NEU-BasicCodingPractice-2024.git",
-    "accountId": "387e0675-2a8f-475e-b1ce-a5176c0d10a6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EricCao2006/NEU-BasicCodingPractice-2024.git&quot;,
+    &quot;accountId&quot;: &quot;387e0675-2a8f-475e-b1ce-a5176c0d10a6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2y8GbYxpGzL08LJCewQe5JDIg9M" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -92,15 +87,40 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDK",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.4632184",
     "vue.rearranger.settings.migration": "true",
-    "应用程序.NepmMain.executor": "Run"
+    "应用程序.NepgMain.executor": "Run",
+    "应用程序.NepmMain.executor": "Run",
+    "应用程序.NepsMain.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\NEU-BasicCodingPractice-2024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.NepgMain">
+    <configuration name="NepgMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nep.NepgMain" />
+      <module name="demo" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-17.0.15\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NepmMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nep.NepmMain" />
       <module name="demo" />
@@ -115,8 +135,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NepsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nep.NepsMain" />
+      <module name="demo" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-17.0.15\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.NepgMain" />
+      <item itemvalue="应用程序.NepsMain" />
+      <item itemvalue="应用程序.NepmMain" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.NepgMain" />
+        <item itemvalue="应用程序.NepsMain" />
         <item itemvalue="应用程序.NepmMain" />
       </list>
     </recent_temporary>
@@ -136,11 +177,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749208859272</updated>
-      <workItem from="1749208860816" duration="135000" />
+      <workItem from="1749208860816" duration="2037000" />
     </task>
+    <task id="LOCAL-00001" summary="2025.06.06完全修改结构&#10;援引了教师提供的代码">
+      <option name="closed" value="true" />
+      <created>1749209136767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749209136767</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2025.06.06完全修改结构&#10;援引了教师提供的代码" />
+    <MESSAGE value="2025.06.06 更新了截图合集，但还不止" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025.06.06 更新了截图合集，但还不止" />
   </component>
 </project>

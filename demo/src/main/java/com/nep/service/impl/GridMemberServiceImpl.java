@@ -9,7 +9,7 @@ import java.util.List;
 public class GridMemberServiceImpl implements GridMemberService {
     @Override
     public GridMember login(String loginCode, String password) {
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
 
         List<GridMember> glist = (List<GridMember>) FileUtil.readObject(ProPaht+"gridmember.txt");
         for(GridMember gm : glist){

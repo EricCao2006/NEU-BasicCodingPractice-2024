@@ -40,7 +40,7 @@ public class ProvinceCityData {
         plist.add(p1);
         plist.add(p2);
         plist.add(p3);
-        String ProPaht = System.getProperty("user.dir") + "/src/main/resources/NepDatas/ObjectData/";
+        String ProPaht = System.getProperty("user.dir") + "/demo/src/main/resources/NepDatas/ObjectData/";
         FileUtil.writeObject(ProPaht+"province_city.txt", plist);
     }
 }
